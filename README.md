@@ -1,6 +1,17 @@
 ## 💜 Olá, meu nome é {Arthur}!
 
-Faça uma breve apresentação sobre você e a sua stack.
+🔹 Sobre Mim 🔹
+
+Sou estudante de Desenvolvimento de Sistemas no Senai, apaixonado por tecnologia e pela criação de soluções que facilitem a vida das pessoas. Estou em busca de oportunidades na área, com preferência por vagas home office, onde possa aplicar meus conhecimentos e contribuir para o sucesso da equipe.
+
+Meus pontos fortes incluem:
+
+Proatividade: Estou sempre em busca de novas formas de aprender e melhorar.
+Comprometimento: Levo meus projetos a sério e busco resultados de qualidade.
+Honestidade: Acredito que a transparência é fundamental para o trabalho em equipe.
+Trabalho em Equipe: Valorizo a colaboração e a troca de ideias com os colegas.
+Comunicação: Possuo habilidades para me comunicar de forma clara e eficaz.
+Estou animado para aplicar minhas habilidades e crescer profissionalmente em um ambiente desafiador. Vamos nos conectar!
 
 
 
